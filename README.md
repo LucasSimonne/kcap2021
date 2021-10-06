@@ -6,4 +6,5 @@ The Vitamin Dataset presented in the paper can be downloaded here, as well as th
 
 In the next weeks will also be added :
 - the schema of VITAMIN (image) and its ontology
-- the code (.py) for : (i) the community detection and (ii) the differential causal rule mining
+
+The code (.py) for : (i) the community detection and (ii) the differential causal rule mining will be added later.
