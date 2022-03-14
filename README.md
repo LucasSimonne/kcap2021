@@ -1,10 +1,9 @@
 # kcap2021
 
-This repository has been created for a paper submitted at KCAP2021.
+This repository has been created for a paper submitted at KCAP2021 (https://dl.acm.org/doi/abs/10.1145/3460210.3493584)
 
-The Vitamin Dataset presented in the paper can be downloaded here, as well as the mined rules on this set (mergedRulesVITAMIN)
+It contains the 2 datasets presented in the paper :
+- Vitamin (vitaminGraph09072021.rdf)
+- Extract of DBPedia (SemEx_2019.rdf)
 
-In the next weeks will also be added :
-- the schema of VITAMIN (image) and its ontology
-
-The code (.py) for : (i) the community detection and (ii) the differential causal rule mining will be added later.
+The rules mined over Vitamin can also be found (mergedRulesVITAMIN.pdf)
